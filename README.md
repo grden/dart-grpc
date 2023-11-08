@@ -7,6 +7,6 @@ project for 2023 FSSN
 The Dart implementation of gRPC.
 This repository contains following simple projects:
 - prg-01-hello_grpc: unary grpc example
-- prg-02-bidirectional: bidirectional grpc example
-- prg-03-clientstreaming: client-side grpc example
-- prg-04-serverstreaming: server-side grpc example
+- prg-02-bidirectional: bidirectional streaming grpc example
+- prg-03-clientstreaming: client-side streaming grpc example
+- prg-04-serverstreaming: server-side streaming grpc example
